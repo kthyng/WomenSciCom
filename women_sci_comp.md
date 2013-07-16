@@ -4,6 +4,8 @@ Date:         June 27, 2013
 
 # Women in Scientific Computing Mixer and Discussion, SciPy 2013
 
+![][pic1] ![][pic2] 
+
 As in other computing fields, women make up a small percentage of the people in scientific computing. In order to bring together the women at the SciPy conference to aid in building community and to discuss related issues, a mixer was held during one of the evening Birds of a Feather sessions. The mixer was co-sponsored by generous support from NumFOCUS, the Python Software Foundation, and the SciPy conference.
 
 Approximately three women attended SciPy 2012. In 2013, there was a substantially higher representation of women, with about 35 women or 10% of the participants between the tutorials, the conference, and the sprints. However, this number is still low, and more elucidating is how the numbers break down by participation activity. More detailed numbers for female participation are as follows, noting that some of these numbers are exact and some are rough best estimates since demographic information was not gathered from conference participants:
@@ -18,6 +20,8 @@ Approximately three women attended SciPy 2012. In 2013, there was a substantiall
 * At least 3 of 27 poster presenters
 * At least 4 of 70 speakers
 * 1/16 full papers
+
+![][pic3] ![][pic4] 
 
 Soon after arriving at the event, people became acquainted with each other and started chatting. There was a good number of people at the mixer to meet new people but still have a chance to meet everyone. There were, all together, 16 people at the mixer: 13 women and 3 men.
 
@@ -39,6 +43,8 @@ A question brought up was how to get more women involved with conference plannin
 
 To get more women to attend SciPy and submit abstracts, people thought that helping with the process could be beneficial. This sort of support would be most logical to come from a group like PyLadies.
 
+![][pic5] ![][pic6] 
+
 Various organizations were suggested as being helpful to seek out, including:
 
 * [NumFOCUS](http://numfocus.org) (has funds for scholarships and women intiatives along with resources)
@@ -53,7 +59,7 @@ A general suggestion for getting more people to SciPy was to have differentiated
 
 Overall, a good time was had by all and it was very enjoyable meeting and discussing with a small group of like-minded individuals. Having these sorts of discussions could be helpful in having a more diverse set of scientific coders over time! For more information about this event, contact Kristen Thyng at kthyng [at] tamu.edu.
 
-![caption][pic1] ![caption][pic2] ![caption][pic3] ![caption][pic4] ![caption][pic5] ![caption][pic6] ![caption][pic7]
+![][pic7]
 
 
 
@@ -64,5 +70,3 @@ Overall, a good time was had by all and it was very enjoyable meeting and discus
 [pic5]: figures/5-IMG_0736.JPG "Image title" width="5in"
 [pic6]: figures/6-IMG_0737.JPG "Image title" width="5in"
 [pic7]: figures/7-IMG_0738.JPG "Image title" width="12in"
-
-Participants (l to r): Sheila, Jennifer, _, Sarah, Anthony, Patricia Francis-Lyon, _, Andy, Jean, Dorothy, Marion, Leah, Maddy, Katy, (Kristen)
