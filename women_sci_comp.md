@@ -6,7 +6,7 @@ Date:         June 27, 2013
 
 ![][pic1] ![][pic2] 
 
-As in other computing fields, women make up a small percentage of the people in scientific computing. In order to bring together the women at the SciPy conference to aid in building community and to discuss related issues, a mixer was held during one of the evening Birds of a Feather sessions. The mixer was co-sponsored by generous support from NumFOCUS, the Python Software Foundation, and the SciPy conference.
+As in other computing fields, women make up a small percentage of the people in scientific computing. In order to bring together the women at the SciPy conference to aid in building community and to discuss related issues, a mixer was held during one of the evening Birds of a Feather sessions, moderated by SciPy Conference co-chair Andy Terrel and attendee Kristen Thyng. The mixer was co-sponsored by generous support from NumFOCUS, the Python Software Foundation, and the SciPy conference.
 
 Approximately three women attended SciPy 2012. In 2013, there was a substantially higher representation of women, with about 35 women or 10% of the participants between the tutorials, the conference, and the sprints. However, this number is still low, and more elucidating is how the numbers break down by participation activity. More detailed numbers for female participation are as follows, noting that some of these numbers are exact and some are rough best estimates since demographic information was not gathered from conference participants:
 
@@ -53,11 +53,11 @@ Various organizations were suggested as being helpful to seek out, including:
 * [GNOME Women](https://wiki.gnome.org/GnomeWomen)
 * [Women in Engineering](http://www.engr.utexas.edu/wep/) (UT program to encourage and provide support for female students in the engineering program. Similar programs are sometimes available at other universities.)
 * [Software Carpentry](http://software-carpentry.org) (teaching/learning materials are available online)
-* Girls Who Code
+* [Girls Who Code](http://www.girlswhocode.com)
 
 A general suggestion for getting more people to SciPy was to have differentiated funding for people coming from companies versus those who are paying their own way (and are not academics).
 
-Overall, a good time was had by all and it was very enjoyable meeting and discussing with a small group of like-minded individuals. Having these sorts of discussions could be helpful in having a more diverse set of scientific coders over time! For more information about this event, contact Kristen Thyng at kthyng [at] gmail.com.
+Overall, a good time was had by all and it was very enjoyable meeting and discussing with a small group of like-minded individuals. Having these sorts of discussions could be helpful in having a more diverse set of scientific coders over time! For more information about this event, contact Andy Terrel at andy.terrel [at] gmail.com or Kristen Thyng at kthyng [at] gmail.com.
 
 ![][pic7]
 
