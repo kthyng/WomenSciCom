@@ -16,10 +16,9 @@ Approximately three women attended SciPy 2012. In 2013, there was a substantiall
 * 1 of about 20 tutorial leaders
 * 2/13 sponsored students
 * 3/19 conference co-chairs
-* Authors or co-authors on at least 10 of 120 submissions 
+* Authors or co-authors on at least 13 of 120 submissions 
 * At least 3 of 27 poster presenters
 * At least 4 of 70 speakers
-* 1/16 full papers
 
 ![][pic3] ![][pic4] 
 
@@ -39,7 +38,7 @@ The conference Code of Conduct was brought up as was how prominent to make the s
 
 It was unanimous that people at the SciPy conference had been accepting and friendly to everyone.
 
-A question brought up was how to get more women involved with conference planning, which could then in turn help the conference be more inclusive and diverse in the future, keeping in mind that sometimes women are cautious not to be stuck "just" planning and organizing, which could be considered a traditional female task.
+A question brought up was how to get more women involved with conference planning, which could then in turn help the conference be more inclusive and diverse in the future, keeping in mind that sometimes women are cautious not to be stuck "just" planning and organizing, which could be considered a traditionally female task.
 
 To get more women to attend SciPy and submit abstracts, people thought that helping with the process could be beneficial. This sort of support would be most logical to come from a group like PyLadies.
 
@@ -54,10 +53,11 @@ Various organizations were suggested as being helpful to seek out, including:
 * [GNOME Women](https://wiki.gnome.org/GnomeWomen)
 * [Women in Engineering](http://www.engr.utexas.edu/wep/) (UT program to encourage and provide support for female students in the engineering program. Similar programs are sometimes available at other universities.)
 * [Software Carpentry](http://software-carpentry.org) (teaching/learning materials are available online)
+* Girls Who Code
 
 A general suggestion for getting more people to SciPy was to have differentiated funding for people coming from companies versus those who are paying their own way (and are not academics).
 
-Overall, a good time was had by all and it was very enjoyable meeting and discussing with a small group of like-minded individuals. Having these sorts of discussions could be helpful in having a more diverse set of scientific coders over time! For more information about this event, contact Kristen Thyng at kthyng [at] tamu.edu.
+Overall, a good time was had by all and it was very enjoyable meeting and discussing with a small group of like-minded individuals. Having these sorts of discussions could be helpful in having a more diverse set of scientific coders over time! For more information about this event, contact Kristen Thyng at kthyng [at] gmail.com.
 
 ![][pic7]
 
