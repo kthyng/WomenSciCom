@@ -63,10 +63,10 @@ Overall, a good time was had by all and it was very enjoyable meeting and discus
 
 
 
-[pic1]: figures/1-IMG_0723.JPG "Image title" width="5in" 
-[pic2]: figures/2-IMG_0726.JPG "Image title" width="5in"
-[pic3]: figures/3-IMG_0728.JPG "Image title" width="5in"
-[pic4]: figures/4-IMG_0732.JPG "Image title" width="5in"
-[pic5]: figures/5-IMG_0736.JPG "Image title" width="5in"
-[pic6]: figures/6-IMG_0737.JPG "Image title" width="5in"
-[pic7]: figures/7-IMG_0738.JPG "Image title" width="12in"
+[pic1]: figures/1-IMG_0723.JPG "Image title" width="45%" 
+[pic2]: figures/2-IMG_0726.JPG "Image title" width="45%"
+[pic3]: figures/3-IMG_0728.JPG "Image title" width="45%"
+[pic4]: figures/4-IMG_0732.JPG "Image title" width="45%"
+[pic5]: figures/5-IMG_0736.JPG "Image title" width="45%"
+[pic6]: figures/6-IMG_0737.JPG "Image title" width="45%"
+[pic7]: figures/7-IMG_0738.JPG "Image title" width="90%"
